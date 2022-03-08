@@ -11,4 +11,4 @@ The game is planned for a 2024 release date on steam and itch.io with a price ta
 
 youtube: https://www.youtube.com/channel/UCZVzxRDTfj5eWsh_5XZA4sQ
 
-P.S. The music that is embeded hasn't been tested so... that's why it doesn't work and/or too loud
+P.S. The javascript doens't work right now, sorry.
