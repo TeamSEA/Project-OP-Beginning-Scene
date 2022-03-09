@@ -10,5 +10,3 @@ We are not going to release to full game on github because we are afraid of peop
 The game is planned for a 2024 release date on steam and itch.io with a price tag of about $5
 
 youtube: https://www.youtube.com/channel/UCZVzxRDTfj5eWsh_5XZA4sQ
-
-P.S. The javascript doens't work right now, sorry.
